@@ -1,6 +1,6 @@
 /*
 
-Lucas Spartacus(655455)
+Lucas Spartacus
 O codigo recebe a mensagem enviada pelo cliente e inverte a mesma, após isso retorna a mensagem para o cliente
 */
 import java.io.*;
