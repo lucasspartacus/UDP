@@ -1,9 +1,7 @@
 /*
 
-Aluno: Lucas Spartacus(655455)
-Projeto 
-Redes I - PUC - Minas
-Nosso codigo recebe a mensagem enviada pelo cliente e inverte a mesma, após isso retorna a mensagem para o cliente
+Lucas Spartacus(655455)
+O codigo recebe a mensagem enviada pelo cliente e inverte a mesma, após isso retorna a mensagem para o cliente
 */
 import java.io.*;
 import java.net.*;
